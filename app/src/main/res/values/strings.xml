@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ad Earn</string>
+    <string name="estimate_earning">Earnings : </string>
+    <string name="estimate_time">0</string>
+    <string name="follow_hint">Press this button every 5 minutes</string>
+    <string name="btn_ad">Show interstitial Ad</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5271590891961371/7867248900</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-5271590891961371/2103608722</string>
+
+</resources>
